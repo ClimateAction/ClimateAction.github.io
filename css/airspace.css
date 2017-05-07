@@ -38,7 +38,7 @@ h3 {
   font-weight: 300;
 }
 p {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 28px;
 }
 ul {
@@ -51,6 +51,9 @@ a:active,
 a:focus,
 a:active {
   text-decoration: none !important;
+}
+.btn {
+  font-size: 18px;
 }
 .section-title {
   margin-bottom: 70px;
@@ -114,7 +117,7 @@ header .navbar-default .navbar-nav {
 header .navbar-default .navbar-nav li a {
   color: #333333;
   padding: 10px 26px;
-  font-size: 15px;
+  font-size: 17px;
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
