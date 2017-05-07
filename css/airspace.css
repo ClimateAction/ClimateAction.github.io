@@ -89,6 +89,21 @@ header .navbar-logo .dot {
   margin: 0 -2px 0 3px;
   font-size: 1.25em;
 }
+@media (max-width: 1000px) {
+  header .navbar-logo h1 {
+    padding: 2px 17px 6px 15px;
+    font-size: 2em;
+    width: 281px;
+  }
+}
+@media (max-width: 460px) {
+  header .navbar-logo h1 {
+    padding: 1px 14px 5px 13px;
+    font-size: 1.6em;
+    width: 224px;
+    margin-top: 5px;
+  }
+}
 header .navbar-default {
   background: none;
   border: 0px;
