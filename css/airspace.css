@@ -76,8 +76,18 @@ header .navbar {
   margin-bottom: 0px;
   border: 0px;
 }
-header .navbar-brand {
-  padding-top: 5px;
+header .navbar-logo h1 {
+  font-family: 'Work Sans', sans-serif;
+  color: #3d3939;
+  border: 2px solid #3d3939;
+  padding: 3px 16px 7px 16px;
+  margin: 0;
+  letter-spacing: -1.5px;
+  font-size: 2.4em;
+}
+header .navbar-logo .dot {
+  margin: 0 -2px 0 3px;
+  font-size: 1.25em;
 }
 header .navbar-default {
   background: none;
